@@ -60,7 +60,7 @@
                 android:layout_width="250dp"
                 android:layout_height="70dp"
                 android:layout_marginTop="10dp"
-                android:background="@drawable/button_border"
+                android:background="@drawable/colores"
                 android:onClick="callButon4"
                 android:padding="10dp"
                 android:text="Button With Border Color" />
